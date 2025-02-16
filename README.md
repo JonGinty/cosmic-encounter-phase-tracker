@@ -1,2 +1,2 @@
 # cosmic-encounter-phase-tracker
-A simple tool to track which phase of the game "Cosmic Encounter" you are in
+Ever lose track of which phase you're in when playing Cosmic Encounter? Ever get annoyed when your friends start negotiating to win the game without even launching any ships or asking for allies? WELL THEN THIS IS THE TOOL FOR YOU!
